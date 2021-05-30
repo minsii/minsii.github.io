@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <h1 class="page-heading">{{ page.title }}</h1>
+        <div class="work">
+          <ul>
+          {% for item in page.items %}
+            <li>
+              <span class="headspan">{{ item.title }}</span> - {{ item.description }}.<br />
+              {% for link in item.links %}
+                <a href="{{ link.url }}" target="{{ link.target }}">[{{ link.name }}]</a>
+              {% endfor %} <!-- item.links -->
+              {{ item.subprojects_heading }}
+              <ul class="subproject">
+              {% for subitem in item.subprojects %}
+              <li>
+                <span class="headspan">{{ subitem.title }}</span> - {{ subitem.description }}.
+                {% for link in subitem.links %}
+                  <a href="{{ link.url }}" target="{{ link.target }}">[{{ link.name }}]</a>
+                {% endfor %} <!-- subitem.links -->
+              </li>
+              {% endfor %} <!-- item.subprojects -->
+              </ul>
+            </li>
+          {% endfor %} <!-- page.items -->
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>

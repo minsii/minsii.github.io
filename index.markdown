@@ -42,17 +42,17 @@ cv_short_pdf:
 <p>
   <!-- Full CV: [<a href="{{page.cv_pdf.src | absolute_url}}" target="_blank">PDF</a>]<br><br> -->
   <span class="headspan">Full CV</span>
-  [<a href="{{page.cv_short_pdf.src | absolute_url}}" target="_blank">PDF</a>]
+  [<a href="{{page.cv_short_pdf.src | absolute_url}}" target="_blank">PDF</a>]<br><br>
 </p>
 
 <p>
-  <span class="headspan">Contact Information</span><br>
+  <h3>Contact Information</h3>
   <span class="headspan">Address</span> : &nbsp; &nbsp;9700 South Cass Avenue, Bldg. 240, Lemont, IL 60439, USA<br>
   <span class="headspan">Office&nbsp;</span>: &nbsp; &nbsp; &nbsp; &nbsp; +1 630-252-4249<br>
   <span class="headspan">Email</span> : &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;msi (AT) anl (DOT) gov, minsi (DOT) atwork (AT) gmail (DOT) com<br><br>
 </p>
 
 <p>
-  <span class="headspan">Internship Opportunity</span><br>
+  <h3>Internship Opportunity</h3>
   We are currently looking for graduate students to intern with us on several ongoing projects. If you are interested in HPC communication related research and would like to join us, please feel free to send me your resume. 
 </p>

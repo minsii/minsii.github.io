@@ -35,8 +35,12 @@ header:
   pages:
     - name: About Me
       slug: /
-    - name: Project 
-    - name: Publications and Talks 
+    - name: Projects
+      slug: /project
+    - name: Publications
+      slug: /publication
+    - name: Talks
+      slug: /talk
 
 footer:
   follow:
