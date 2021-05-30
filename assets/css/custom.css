@@ -1,6 +1,6 @@
 body {
     font-family: 'Rubik', sans-serif;
-    font-size: 12pt;
+    font-size: 11pt;
     font-weight: 500;
 }
 
@@ -10,12 +10,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h3 {
-    font-size: 14pt;
+    font-size: 13pt;
 }
 
 .header_title {
     font-weight: 700;
-    font-size: 14pt;
+    font-size: 13pt;
     color: #111
 }
 
@@ -30,14 +30,14 @@ h3 {
 
 .headspan {
     font-weight: 700;
-    font-size: 14pt;
+    font-size: 12pt;
 }
 
 .headspan2 {
     font-weight: 700;
 }
 
-.me, .title {
+.me, .title, .menu {
     font-weight: 600;
 }
 
