@@ -2,8 +2,7 @@
 layout: publication
 title: Technical Talks and Invited Seminars
 sections:
-  - title: Refereed Journal Articles
-    items:
+  - items:
       - title: "Challenges and Opportunities in Co-Design for High-Performance Computing Software Systems"
         proceeding: Invited talk at the REBASE track of the SPLASH 2020 virtual conference, November 2020
         slides: /assets/pdf/rebase-codesign-202011.pdf
