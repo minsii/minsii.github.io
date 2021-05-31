@@ -46,8 +46,10 @@ footer:
   follow:
     - name: LinkedIn
       link: https://www.linkedin.com/in/minsi-atwork/
+      target: linkedin_minsi
     - name: GitHub
       link: https://github.com/minsii
+      target: github_minsi
 
 # Exclude from processing.
 # The following items will not be processed, by default.

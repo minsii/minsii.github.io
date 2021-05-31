@@ -17,19 +17,17 @@ cv_short_pdf:
 <p>
   Dr. Min Si is an Assistant Computer Scientist at
   Argonne National Laboratory working with the 
-  <a href="http://www.mcs.anl.gov/group/pmrs/" target="_blank">Programming Models and Runtime Systems</a> 
+  <a href="http://www.mcs.anl.gov/group/pmrs/" target="pmrs">Programming Models and Runtime Systems</a> 
   group. Min's research interests include communication runtime in high-performance
   computing and parallel programming models.<br><br>
 
   Min was previously an Enrico Fermi Postdoctoral Scholar of Argonne National Laboratory.
   She received the Ph.D. degree in computer science from 
-  <a href="http://www.u-tokyo.ac.jp/index_e.html" target="_blank">the University of Tokyo</a> 
-  in 2016, under the supervision of <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/index.html" target="_blank">Prof. Reiji Suda</a> 
-  and <a href="http://www-sys-aics.riken.jp/Members/ishikawa.html" target="_blank">Prof. Yutaka Ishikawa</a>. 
+  <a href="http://www.u-tokyo.ac.jp/index_e.html" target="utokyo">the University of Tokyo</a> in 2016.
   Her doctoral dissertation focused on the optimization of high performance 
   message passing communication on massively parallel multi-/many-core 
   architectures. Previously, she received the M.S. degree in science 
-  from the same university in 2012, supervised by <a href="http://www-sys-aics.riken.jp/Members/ishikawa.html" target="_blank">Prof. Yutaka Ishikawa</a>. 
+  from the same university in 2012. 
   In her master thesis, she worked on the direct communication facility 
   for many-core based cluster systems.<br><br>
 
