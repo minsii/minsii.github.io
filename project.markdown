@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Projects
+title: Previous Projects (outdated)
 items:
   - title: MPICH
     description: A high-performance, portable implementation of the Message Passing Interface (MPI). MPICH and its derivatives form the most widely used implementations of MPI in the world. My interests especially focus on the research and development of MPI one-sided communication model
