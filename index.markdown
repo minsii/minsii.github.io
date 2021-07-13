@@ -10,7 +10,7 @@ cv_short_pdf:
 ---
 <h1>Min Si</h1>
 <div class="headsec"><p>
-  Research Scientist
+  Research Scientist<br>
   Facebook
 </p></div>
 <p>
